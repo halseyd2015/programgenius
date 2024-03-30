@@ -1,0 +1,33 @@
+{
+  "name": "programgenius",
+  "version": "1.0.2",
+  "description": "programgenius",
+  "type": "module",
+  "main": "programgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halseyd2015/programgenius"
+  },
+  "website": "https://github.com/halseyd2015/programgenius.git",
+  "keywords": [
+    "programgenius"
+  ],
+  "author": "halseyd2015",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halseyd2015/programgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/halseyd2015/programgenius#readme",
+  "dependencies": {
+    "scriptcraftbox": "1.0.2",
+    "codewhiz": "1.0.2",
+    "codecraftsmaster": "1.0.2"
+  }
+}
